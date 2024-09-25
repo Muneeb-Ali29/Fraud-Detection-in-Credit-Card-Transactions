@@ -48,8 +48,3 @@ Proposed a real-time fraud detection system integrating machine learning models 
 - **Data Distribution:** Visualized class balance and transaction amount distribution.
 - **Model Performance:** Confusion matrices and feature importance charts.
 - **AUC-ROC Curves:** Comparison of models based on AUC-ROC scores.
-
-## **⚙️ How to Use**
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
